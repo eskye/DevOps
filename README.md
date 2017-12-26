@@ -8,6 +8,4 @@ This repository contains a simple demo API built with NodeJS. The API is used to
 
 ## ENVIRONMENT VARIABLES
 PORT=3000
-DB_URL='mongodb://john:doe@localhost:27017/databaseName'
-```
-* After this, you can then start the server with the command: `npm start`.
+DB_URL='mongodb://sunkee:temitope@ds131687.mlab.com:31687/devops'
